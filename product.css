@@ -440,8 +440,8 @@ li{
   }
        /* footer started */
   footer{
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 0%;
+    margin-right: 0%;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 20px;
